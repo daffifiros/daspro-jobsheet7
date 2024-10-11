@@ -22,7 +22,6 @@
         
 //     }
 // }    
-
 import java.util.Scanner;
 
 public class SiAkadFor17 {
@@ -41,8 +40,6 @@ public class SiAkadFor17 {
             if (nilai < terendah) {
                 terendah = nilai;
             }
-            
-            // Menghitung jumlah mahasiswa lulus dan tidak lulus
             if (nilai >= 60) {
                 jumlahLulus++;
             } else {
