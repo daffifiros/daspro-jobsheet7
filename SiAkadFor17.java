@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Pemilihan2Percobaan117 {
+public class SiAkadFor17 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         double nilai, tertinggi = 0, terendah = 100;
@@ -21,4 +21,5 @@ public class Pemilihan2Percobaan117 {
         System.out.println("Nilai terendah: " + terendah);
         
     }
-}
+}    
+
