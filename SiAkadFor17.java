@@ -19,9 +19,9 @@
         
 //         System.out.println("Nilai tertinggi: " + tertinggi);
 //         System.out.println("Nilai terendah: " + terendah);
-        
+    
 //     }
-// }    
+// }
 import java.util.Scanner;
 
 public class SiAkadFor17 {
@@ -40,6 +40,7 @@ public class SiAkadFor17 {
             if (nilai < terendah) {
                 terendah = nilai;
             }
+            
             if (nilai >= 60) {
                 jumlahLulus++;
             } else {
